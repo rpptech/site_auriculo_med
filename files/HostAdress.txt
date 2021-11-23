@@ -1,0 +1,56 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-500A38R
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : E8-03-9A-F4-D6-AE
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : C4-85-08-BD-02-69
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : C6-85-08-BD-02-68
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Centrino(R) Advanced-N 6235
+   Physical Address. . . . . . . . . : C4-85-08-BD-02-68
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::607a:7bd5:e31c:4e60%12(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.15.9(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : segunda-feira, 22 de novembro de 2021 06:22:11
+   Lease Expires . . . . . . . . . . : segunda-feira, 22 de novembro de 2021 23:17:05
+   Default Gateway . . . . . . . . . : 192.168.15.1
+   DHCP Server . . . . . . . . . . . : 192.168.15.1
+   DHCPv6 IAID . . . . . . . . . . . : 130319624
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-28-7A-DF-86-E8-03-9A-F4-D6-AE
+   DNS Servers . . . . . . . . . . . : fe80::9a7e:caff:fe5e:e8c0%12
+                                       8.8.8.8
+                                       8.8.4.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled

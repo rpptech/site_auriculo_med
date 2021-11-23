@@ -1,0 +1,21 @@
+
+.upper {
+    background-color: rgba(102, 153, 255, .5);
+    color: black;
+    text-align: center;
+    
+}
+
+.teste{
+    background-color:aquamarine;
+    text-align: left;
+}
+
+.rodape{
+    text-align: right;
+}
+.installation{
+    background-color: rgba(102, 153, 255, .5);
+    text-align: left;
+}
+
