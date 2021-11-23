@@ -1,4 +1,5 @@
 
+
 .upper {
     background-color: rgba(102, 153, 255, .5);
     color: black;
@@ -6,13 +7,9 @@
     
 }
 
-.teste{
-    background-color:aquamarine;
-    text-align: left;
-}
-
 .rodape{
-    text-align: right;
+    text-align: left;
+    background-color: rgba(102, 153, 255, .5);
 }
 .installation{
     background-color: rgba(102, 153, 255, .5);
