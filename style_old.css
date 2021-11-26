@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.upper {
+    background-color: rgba(102, 153, 255, .5);
+    color: black;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    padding: 10px;
+    
+}
+.upper1 {
+    background-color: rgba(102, 153, 255, .5);
+    color: black;
+    text-align: left;
+    font-family: 'Libre Baskerville', serif;
+    padding: 10px;
+    
+}
+
+.rodape{
+    text-align: left;
+    background-color: rgba(102, 153, 255, .5);
+}
+.installation{
+    background-color: rgba(102, 153, 255, .5);
+    text-align: left;
+}
+
+#teste{
+    color: blue;
+    background-color: blue;
+}
