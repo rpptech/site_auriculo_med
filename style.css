@@ -1,84 +1,94 @@
 *{
-margin: 0px;
-padding: 0px;
-
-}
-.style1 {
-    background-color: rgba(102, 153, 255, .5);
-    color: blue;
-    text-align: center;
-    font-family: 'Libre Baskerville', serif;
-    padding: 10px;
+    margin: 0px;
+    padding: 0px;
     
-}
-.style2 {
-    background-color: rgba(102, 153, 255, .5);
-    color: black;
-    text-align: center;
-    font-family:'Times New Roman', Times, serif;
-    padding: 10px;
+    }
+    .style1 {
+        background-color: rgba(102, 153, 255, .5);
+        color: blue;
+        text-align: center;
+        font-family: 'Libre Baskerville', serif;
+        padding: 10px;
+        
+    }
+    .style2 {
+        background-color: rgba(102, 153, 255, .5);
+        color: black;
+        text-align: center;
+        font-family:'Times New Roman', Times, serif;
+        padding: 10px;
+        
+    }
     
-}
-
-.style3 {
-    background-color:rgba(102, 153, 255, .5);
-    color:black;
-    text-align: left;
-    font-family:'Times New Roman', Times, serif;
-    font-size: 20px;
-    padding: 10px;
+    .style3 {
+        background-color:rgba(102, 153, 255, .5);
+        color:black;
+        text-align: justify;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 20px;
+        padding: 10px;
+        
+    }
     
-}
-
-.rodape{
-    text-align: left;
-    background-color: rgba(102, 153, 255, .5);
-}
-.installation{
-    background-color: rgba(102, 153, 255, .5);
-    text-align: left;
-}
-
-#teste{
-    color: blue;
-    background-color: blue;
-}
-
-
-.div_btn{
-    background-color: rgba(102, 153, 255, .5);
-    text-align: center;
-    padding: 10px;
+    .style4{
+        background-color: black;
+        color: whitesmoke;
+        line-height: 1.8;
     
-
-}
-.button {
-    border: none;
-    color: white;
-    padding: 15px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-family:Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;
-    border-radius: 30px;
-    font-weight: 500;
-
-  }
-  
-  .btn_green:hover {
-
-
-    background-color: white;
-    color: black;
-    border: 2px solid #4CAF50;
-
-  }
-  
-  .btn_green {
-    background-color: #4CAF50;
-    color: white;
-  }
+    }
+    
+    ol li::marker{
+        color:red
+    }
+    .rodape{
+        text-align: left;
+        background-color: rgba(102, 153, 255, .5);
+    }
+    .installation{
+        background-color: rgba(102, 153, 255, .5);
+        text-align: left;
+    }
+    
+    #teste{
+        color: blue;
+        background-color: blue;
+    }
+    
+    
+    .div_btn{
+        background-color: rgba(102, 153, 255, .5);
+        text-align: center;
+        padding: 10px;
+        
+    
+    }
+    .button {
+        border: none;
+        color: white;
+        padding: 15px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        border-radius: 30px;
+        font-weight: 500;
+    
+      }
+      
+      .btn_green:hover {
+    
+    
+        background-color: white;
+        color: black;
+        border: 2px solid #4CAF50;
+    
+      }
+      
+      .btn_green {
+        background-color: #4CAF50;
+        color: white;
+      }
