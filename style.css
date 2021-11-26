@@ -55,19 +55,21 @@ padding: 0px;
 .button {
     border: none;
     color: white;
-    padding: 16px 32px;
+    padding: 15px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    font-family:Arial, Helvetica, sans-serif;
     font-size: 16px;
     margin: 4px 2px;
     transition-duration: 0.4s;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 30px;
+    font-weight: 500;
 
   }
   
-  .btn_green {
+  .btn_green:hover {
 
 
     background-color: white;
@@ -76,7 +78,7 @@ padding: 0px;
 
   }
   
-  .btn_green:hover {
+  .btn_green {
     background-color: #4CAF50;
     color: white;
   }
