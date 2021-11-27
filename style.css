@@ -1,6 +1,7 @@
 *{
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
+
     
     }
     /* logo color:#094886  */
@@ -88,28 +89,38 @@ cor: #1D8703 */
 .beneficios{
     color: #1D8703;
     font-family: 'Libre Baskerville', serif;
-
+    margin: auto;
+    flex-wrap:wrap;
+    justify-content: center;
+    width: 95vw;
 }
 
-.beneficios >p{
-    color: black;
-    text-align: center;
+
+div.child{
+    margin: 5px;
+    line-height: 1.4;
 }
+
 .beneficios >h2{
-    padding: 10px;
+
     padding-top: 10px;
     text-align: center;
     font-family: 'Work Sans', sans-serif;
-
+    font-size: 2em;
 }
 
-.beneficios >h3{
+.beneficios >div >h3{
     text-align: center;
-    
+    font-size: 1.2em;
+    color: blue;
 }
 
-
-
+.beneficios >div >p{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 1.2m;
+}
 
 
 
@@ -129,11 +140,14 @@ cor: #1D8703 */
 }
 
 
-.div_btn{
+.div_btn_blue{
     background-color: rgba(102, 153, 255, .5);
     text-align: center;
     padding: 10px;
-    
+}
+.div_btn_white{
+    background-color: white;
+    text-align: center;
 
 }
 .button {
@@ -153,20 +167,22 @@ cor: #1D8703 */
     cursor: pointer;
     border-radius: 30px;
     font-weight: 500;
+    line-height: 3;
 
     }
     
-    .btn_green:hover {
+.btn_green:hover {
 
-    color: black;
-    border: 2px solid #4CAF50;
-    padding: 8px 20px;
-    padding-left: 100px;
-    padding-right: 100px;
+color: black;
+border: 2px solid #4CAF50;
+padding: 10px 20px;
+padding-left: 100px;
+padding-right: 100px;
 
-    }
-    
-    .btn_green {
-    background-color: #4CAF50;
-    color: white;
-    }
+}
+
+.btn_green {
+background-color: #4CAF50;
+color: white;
+
+}
