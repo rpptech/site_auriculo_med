@@ -165,6 +165,32 @@ div.child{
 }
 /* */
 
+/* FAQ */
+
+.faq{
+    background-color: rgba(102, 153, 255, .5);
+    color: black;
+    text-align: left;
+    margin: 5px;
+    padding: 20px;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 1.5;
+
+}
+.faq >details{
+    color: black;
+
+}
+.faq >details >summary{
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 800;
+}
+
+.faq >details >p{
+    color: blue;
+    font-size: 1.1rem;
+}
 
 .rodape{
     text-align: left;
