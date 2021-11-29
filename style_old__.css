@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    
+    }
+    /* logo color:#094886  */
+
+
+
+.upper {
+    background-color: rgba(102, 153, 255, .5);
+    color: blue;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    padding: 10px;
+    font-weight: 10;
+    
+}
+
+
+.style1 {
+
+    /*background-color: rgba(102, 153, 255, .5); */
+    color: blue;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    padding: 2px;
+
+   
+}
+.style2 {
+    background-color: rgba(102, 153, 255, .5);
+    color: black;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 1.2;
+
+    
+}
+
+.style3 {
+    background-color:rgba(102, 153, 255, .5);
+    color:black;
+    text-align: justify;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+    line-height: 1;
+    padding-bottom: 10px;
+    
+}
+
+.style4{
+    background-color: black;
+    color: whitesmoke;
+    line-height: 1.8;
+    padding: 25px;
+    padding-left: 50px;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.1;
+
+}
+.style5{
+    color: chartreuse;
+    
+}
+
+.style6{
+    text-align: center;
+    background-color: rgba(102, 153, 255, .5);
+    color: blue;
+    font-size: 12px;
+}
+
+
+/*  deixando o video responsivo */
+div.video{
+    position: relative;
+    padding: 20px;
+    padding-bottom: 35%;
+
+}
+div.video > video{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+
+
+}
+
+ol li::marker{
+    color:chartreuse;
+    font-size: 20px;
+}
+
+
+
+/*  BENEFICIOS 
+cor: #1D8703 */
+
+.beneficios{
+    color: #1D8703;
+    font-family: 'Libre Baskerville', serif;
+    margin: auto;
+    flex-wrap:wrap;
+    justify-content: center;
+    width: 95vw;
+}
+
+
+div.child{
+    margin: 5px;
+    line-height: 1.4;
+}
+
+.beneficios >h2{
+
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 2em;
+}
+
+.beneficios >div >h3{
+    text-align: center;
+    font-size: 1.2em;
+    color: blue;
+}
+
+.beneficios >div >p{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 1.2m;
+}
+
+/*  PRECO */
+
+.preco{
+    background-color: black;
+    padding: 10px;
+    color: whitesmoke;
+    line-height: 1.8;
+    padding: 10px;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.2;
+    text-align: center;
+}
+
+.preco >div >h2{
+    color: chartreuse;
+    font-size: 15px;
+    font-weight: 800;
+}
+
+.preco >div >h1{
+    color: chartreuse;
+    font-size: 2rem;
+    font-weight: 800;
+}
+/* */
+
+/* FAQ */
+
+.faq{
+    background-color: rgba(102, 153, 255, .5);
+    color: black;
+    text-align: left;
+    margin: 5px;
+    padding: 20px;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 1.5;
+
+}
+.faq >details{
+    color: black;
+
+}
+.faq >details >summary{
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 800;
+}
+
+.faq >details >p{
+    color: blue;
+    font-size: 1.1rem;
+}
+
+.rodape{
+    text-align: left;
+    background-color: rgba(102, 153, 255, .5);
+}
+
+
+#teste{
+    color: blue;
+    background-color: blue;
+}
+
+
+.div_btn_blue{
+    background-color: rgba(102, 153, 255, .5);
+    text-align: center;
+    padding: 10px;
+}
+.div_btn_black{
+    background-color: black;
+    text-align: center;
+
+}
+.div_btn_white{
+    background-color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-align: center;
+    line-height: 1.5;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 30px;
+    font-weight: 500;
+}
+    
+.btn_green:hover {
+
+color: black;
+border: 2px solid #4CAF50;
+padding: 10px 20px;
+padding-left: 100px;
+padding-right: 100px;
+
+}
+
+.btn_green {
+background-color: #4CAF50;
+color: white;
+
+}
