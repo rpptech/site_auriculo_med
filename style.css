@@ -1,6 +1,7 @@
 *{
     margin: 0px;
-    padding: 0px;
+    line-height: 1.2;
+
 }
 
 .upper {
@@ -27,6 +28,8 @@
 .installation{
     background-color: rgba(102, 153, 255, .5);
     text-align: left;
+    padding: 10px;
+    line-height: 1.2;
 }
 
 #teste{
